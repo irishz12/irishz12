@@ -4,7 +4,7 @@ Building reliable AI systems — RAG with verified citations, controlled agents,
 
 I focus on making AI agents and retrieval systems **trustworthy** rather than just impressive demos.
 
-### 🔥 Featured Projects
+###  Featured Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
