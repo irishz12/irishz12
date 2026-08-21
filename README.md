@@ -45,5 +45,4 @@ A pipeline processing 7.08M U.S. domestic flights (BTS, full-year 2024) through 
 ## 📫 Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishikesh-k-g-5aa1002a8)
-[![Twitter](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/Irish012_)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:irishz121212@gmail.com)
