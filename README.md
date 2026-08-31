@@ -30,7 +30,7 @@ A pipeline processing 7.08M U.S. domestic flights (BTS, full-year 2024) through 
 **Found:** 95.28% valid aircraft-link rate · 0.764 buffer-adjusted correlation · downstream delay rate falls from 69.06% (0–30 min buffer) to 15.29% (120+ min)
 `Python` `PostgreSQL` `SQL` `Plotly Dash`
 
-###  [Agentic Synthetic Data Validation & Optimization Platform](https://github.com/irishz12/Synthetic-Data-Validation-Optimization)
+###  [Synthetic Data Validation & Optimization Platform](https://github.com/irishz12/Synthetic-Data-Validation-Optimization)
 Generates synthetic tabular data (Gaussian Copula, CTGAN) and decides ACCEPT / REGENERATE / REJECT using four deterministic evaluation pillars — fidelity, rare-case retention, privacy-risk, and downstream ML utility — verified against a cryptographically locked, SHA-256-hashed holdout split. 276 automated tests, 96% coverage.
 **Showed:** Gaussian Copula → REGENERATE (recall ratio 0.045 vs. 0.85 required) · CTGAN → ACCEPT (composite score 0.935), on the UCI Adult dataset (48,790 rows).
 `Python` `pandas` `scikit-learn` `SDV` `Pandera`
